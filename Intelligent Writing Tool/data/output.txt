@@ -1,0 +1,6 @@
+Original Text: My name is Ryan Moss, I am 21 and am studying at the University of Sussex
+Lowercased Text: my name is ryan moss, i am 21 and am studying at the university of sussex
+Tokenization: ['my', 'name', 'is', 'ryan', 'moss', 'i', 'am', '21', 'and', 'am', 'studying', 'at', 'the', 'university', 'of', 'sussex']
+Filtered Tokens (Without Punctuation and Stopwords): ['name', 'ryan', 'moss', '21', 'studying', 'university', 'sussex']
+Stemmed Tokens: ['name', 'ryan', 'moss', '21', 'studi', 'univers', 'sussex']
+Lemmatized Tokens: ['name', 'ryan', 'moss', '21', 'studying', 'university', 'sussex']
